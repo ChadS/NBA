@@ -25,4 +25,4 @@ Note:
 2.	Add your code on top of the existing code of the given java files (but do not change the existing code).
 3.	 Your output must be as required in the java file. 
 4.	The output is random. So the number of win and loss may be different in your result but the output must should be same.
-5.	The final array output can be produced by toString() method.
+5.	The final array output can be produced by toString() method..
